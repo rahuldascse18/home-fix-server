@@ -13,7 +13,7 @@ const store_id = process.env.STORE_ID;
 const store_passwd = process.env.STORE_PASSWD;
 const is_live = false;
 
-const API_URL = 'https://scholar-bangla-server.vercel.app';
+const API_URL = 'https://home-fix-server-nine.vercel.app';
 const FRONTEND_URL = "https://home-fix-rho.vercel.app";
 console.log(FRONTEND_URL);
 
